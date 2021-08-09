@@ -1,0 +1,12 @@
+.content {
+    grid-area: c;
+    background-color: rgb(132, 111, 252);
+}
+
+.item {
+    color: greenyellow;
+}
+
+.bkg {
+    width: 1200px;
+}
